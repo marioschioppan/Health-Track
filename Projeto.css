@@ -1,0 +1,154 @@
+.body{
+    background-color:#F2F3F4; 
+}
+
+.container-fluid{
+        background-color: #F2F3F4;
+        padding: inherit;
+    }
+        
+
+.col-md-3{
+        background-color:#F2F3F4;
+        height: 150px;
+        text-align: left;
+        padding-top: 25px;
+        padding-left: 120px;
+        color: #00171F;
+    }
+
+.col-md-4{
+        background-color:#25283D;
+        height: 100px;
+        text-align: left;
+        padding-top: 15px;
+        padding-left: 120px;
+        color: #ffffff;
+    }
+        
+th{
+    text-align: center;
+}
+
+table{
+    border-color: #25283D;
+    border-width: thin;
+}
+
+.col-md-6{
+        background-color:#F2F3F4;
+        text-align: left;
+        color: #00171F;
+        padding-top:0px;
+        padding-left: 60px;
+        padding-right: 0px;
+        
+    }
+
+.col-md-8{
+        background-color:#25283D;
+        height: 100px;
+        text-align: center;
+        padding-top: 25px;
+        padding-left: 180px;
+        color: #FFFFFF;
+    }
+
+.col-md-9{
+        background-color:#F2F3F4;
+        height: 150px;
+        text-align: left;
+        padding-top: 25px;
+        padding-left: 120px;
+        color: #00171F;
+    }
+                
+.col-md-12{
+        background-color:#F2F3F4;
+        height: 200px;
+        text-align: left;
+        padding-top: 25px;
+        padding-left: 120px;
+        color: #00171F;
+    }
+
+#dashboard{
+    background-color: #F2F3F4;
+    line-height: 90px;
+    padding-left: 25px;
+    padding-top: 50px;
+    text-align: center;
+    border-spacing: 0;
+    border-radius: 6px;
+}
+
+#box{
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-right: 0px;
+    text-align: left;
+    height: 250px;
+    border-color: #D0D1D2;
+    border-width: 1px;
+}
+
+#box2{
+    padding-left:0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    text-align: left;
+    height: 250px;
+    border-color: #D0D1D2;
+    border-width: 1px;
+}
+
+
+#tabelas{
+    background-color: #D0D1D2;
+    line-height: 35px;
+    padding-left: 25px;
+    padding-top: 50px;
+    text-align: center;
+    border-color: #25283D;
+    border-width: thin;
+    color: #25283D;
+    padding-bottom: 10px;
+}
+
+td{
+    padding-bottom: 2px;
+}
+
+.jumbotron{
+    background-color: #F2F3F4;
+    height: 700px;
+}
+
+.nav{
+    background-color:#25283D;
+    height: 100px;
+}
+
+#button{
+    color: #25283d;
+}
+
+#forgot{
+    padding-left: 10px;
+}
+
+a{
+    color: #ffffff;
+}
+
+#link_white{
+    color: #25283d;
+    font-size: 14px;
+}
+
+#fulano{
+     text-align: center;
+     font-size: 16px;
+     padding-left: 180px;
+     color: #FFFFFF;
+}
